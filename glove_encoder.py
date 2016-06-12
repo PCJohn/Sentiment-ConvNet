@@ -2,7 +2,7 @@
 Module to encode text with GloVe vectors.
 The encoder maps every word to its GloVe word embedding and stacks these vectors vertically to form a matrix.
 
-Usage:  glove = GloveEncoder('glove\\glove.6B.50d.txt', word_dim=50, max_len=20)
+Usage:  glove = GloveEncoder('glove', word_dim=50, max_len=20)
         text = 'This is a test sentence.'
         enc_matrix = glove.encode_phrase(text)
 
