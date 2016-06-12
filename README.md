@@ -17,5 +17,7 @@ to run the default training session save the model to "sentiment_model.pkl".
 See documentation within the modules for detailed usage.
 
 Requirements:
-1) theano, lasagne and scikit-neuralnetwork
-2) Python 2.7 (64 bit)
+
+    1) theano, lasagne
+    2) scikit-neuralnetwork
+    3) Python 2.7 (64 bit)
