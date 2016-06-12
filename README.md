@@ -21,3 +21,5 @@ Requirements:
     1) theano, lasagne
     2) scikit-neuralnetwork
     3) Python 2.7 (64 bit)
+
+Here's the output of interactive_test() in sentiment.py:
